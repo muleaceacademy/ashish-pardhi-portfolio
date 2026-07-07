@@ -24,7 +24,7 @@
 ---
 
 ## About Me
-![Uploading Ashish_1.png…]()
+<img width="1122" height="1402" alt="Ashish_1" src="https://github.com/user-attachments/assets/5ed503b3-f392-4b38-8e5c-7ec4414735c9" />
 
 I am a MuleSoft Practice Lead and Technical Delivery Leader with **15 years of IT experience**, including **12+ years in enterprise integration** and **7+ years delivering MuleSoft programs**.
 
