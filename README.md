@@ -15,9 +15,9 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>·
-  <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>·
-  <a href="mailto:ashish.iitbcse@gmail.com">Email</a>·
+  <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>  |
+  <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>  |
+  <a href="mailto:ashish.iitbcse@gmail.com">Email</a>  |
   <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
 </p>
 
