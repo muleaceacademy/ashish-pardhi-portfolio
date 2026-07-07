@@ -81,25 +81,24 @@ The following repositories are intended to demonstrate hands-on architecture, im
 
 | Project | Focus | Status |
 |---|---|---|
-| **Runtime Fabric on AWS EKS** | Terraform, Amazon EKS, NGINX Ingress, Runtime Fabric installation, operational guidance | Planned / Add repository link |
-| **MuleSoft CI/CD Templates** | Maven, GitHub Actions, automated quality checks, deployment patterns | Planned / Add repository link |
-| **API Security & Governance Patterns** | OAuth 2.0, client application security, API policies, governance standards | Planned / Add repository link |
-| **Agentic AI Integration Patterns** | MCP, Agentforce, API Catalog, RAG, safe enterprise AI automation | Planned / Add repository link |
-| **DataWeave & Integration Utilities** | Reusable transformations, error-handling patterns, integration helpers | Planned / Add repository link |
+| **Runtime Fabric on AWS EKS** | Terraform, Amazon EKS, NGINX Ingress, Runtime Fabric installation, operational guidance | [GitHub Repo](https://github.com/muleaceacademy/RTF-EKS-Terraform) |
+| **MuleSoft CI/CD Templates** | Maven, GitHub Actions, automated quality checks, deployment patterns | [GitHub Repo](https://github.com/muleaceacademy/ch2-cicd-multi-envs-pom-version-update) |
+| **API Security & Governance Patterns** | OAuth 2.0, client application security, API policies, governance standards | [GitHub Repo](https://github.com/muleaceacademy/gmail-idp-sfdc-invoices) |
+| **Agentic AI Integration Patterns** | MCP, Agentforce, API Catalog, RAG, safe enterprise AI automation | [GitHub Repo](https://github.com/muleaceacademy/MAF-Trip-Planner) |
+| **DataWeave & Integration Utilities** | Reusable transformations, error-handling patterns, integration helpers | [GitHub Repo](https://github.com/muleaceacademy/mule-grpc-order-tracking-lab) |
 
 ---
 
 ## Certifications & Recognition
 
-- Salesforce Certified Agentforce Specialist
-- Salesforce Certified MuleSoft Hyperautomation Specialist
-- Salesforce Certified MuleSoft Developer II
-- Salesforce Certified MuleSoft Platform Architect
-- Salesforce Certified MuleSoft Integration Architect
-- Salesforce Certified MuleSoft Developer I
+- [Salesforce Certified Agentforce Specialist](https://www.salesforce.com/trailblazer/apardhi1)
+- [Salesforce Certified MuleSoft Hyperautomation Specialist](https://www.salesforce.com/trailblazer/apardhi1)
+- [Salesforce Certified MuleSoft Developer II](https://www.salesforce.com/trailblazer/apardhi1)
+- [Salesforce Certified MuleSoft Platform Architect](https://www.salesforce.com/trailblazer/apardhi1)
+- [Salesforce Certified MuleSoft Integration Architect](https://www.salesforce.com/trailblazer/apardhi1)
+- [Salesforce Certified MuleSoft Developer I](https://www.salesforce.com/trailblazer/apardhi1)
 - MuleSoft Certified Delivery Champion
 - MuleSoft Community Contributor, Meetup Leader, and Speaker
-
 ---
 
 ## Mule Ace Academy
