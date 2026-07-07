@@ -24,15 +24,35 @@
 ---
 
 ## About Me
-|---|---|
-| <img width="500" height="500" alt="Ashish_1" src="https://github.com/user-attachments/assets/5ed503b3-f392-4b38-8e5c-7ec4414735c9" /> |
-
-I am a MuleSoft Practice Lead and Technical Delivery Leader with **15 years of IT experience**, including **12+ years in enterprise integration** and **7+ years delivering MuleSoft programs**.
-
-I lead architects, consultants, and engineers in designing and delivering secure, scalable, and governed integration platforms across Salesforce, SAP, Oracle, SaaS, cloud, and legacy environments. My work spans enterprise integration strategy, API-led connectivity, hybrid deployment, platform governance, API security, DevOps, and AI-enabled automation.
-
-My leadership approach combines hands-on architecture with delivery governance, customer engagement, reusable-asset development, technical enablement, and mentoring. I focus on translating complex technical landscapes into dependable platforms and measurable business outcomes.|
-
+<table>
+  <tr>
+    <td width="220" valign="top">
+      <img width="180" alt="Ashish Pardhi"
+        src="https://github.com/user-attachments/assets/5ed503b3-f392-4b38-8e5c-7ec4414735c9" />
+    </td>
+    <td valign="top">
+      <h3>About Me</h3>
+      <p>
+        I am a MuleSoft Practice Lead and Technical Delivery Leader with
+        <strong>15 years of IT experience</strong>, including
+        <strong>12+ years in enterprise integration</strong> and
+        <strong>7+ years delivering MuleSoft programs</strong>.
+      </p>
+      <p>
+        I lead architects, consultants, and engineers in designing and delivering
+        secure, scalable, and governed integration platforms across Salesforce, SAP,
+        Oracle, SaaS, cloud, and legacy environments. My work spans enterprise
+        integration strategy, API-led connectivity, hybrid deployment, platform
+        governance, API security, DevOps, and AI-enabled automation.
+      </p>
+      <p>
+        My leadership approach combines hands-on architecture with delivery
+        governance, customer engagement, reusable-asset development, technical
+        enablement, and mentoring.
+      </p>
+    </td>
+  </tr>
+</table>
 ---
 
 ## Core Expertise
