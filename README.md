@@ -121,7 +121,8 @@ The following repositories are intended to demonstrate hands-on architecture, im
 - [Salesforce Certified MuleSoft Integration Architect](https://www.salesforce.com/trailblazer/apardhi1)
 - [Salesforce Certified MuleSoft Developer I](https://www.salesforce.com/trailblazer/apardhi1)
 - MuleSoft Certified Delivery Champion
-- MuleSoft Community Contributor, Meetup Leader, and Speaker
+- MuleSoft **Ambassador**
+- MuleSoft Community Contributor, Chennai MuleSoft Meetup Leader, and Speaker
 
 ---
 
