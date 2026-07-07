@@ -31,7 +31,6 @@
         src="https://github.com/user-attachments/assets/5ed503b3-f392-4b38-8e5c-7ec4414735c9" />
     </td>
     <td valign="center">
-      <h3>About Me</h3>
       <p>
         I am a MuleSoft Practice Lead and Technical Delivery Leader with
         <strong>15 years of IT experience</strong>, including
