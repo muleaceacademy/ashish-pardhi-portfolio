@@ -24,6 +24,7 @@
 ---
 
 ## About Me
+
 <table>
   <tr>
     <td width="220" valign="center">
@@ -52,6 +53,8 @@
     </td>
   </tr>
 </table>
+
+---
 
 ## Core Expertise
 
@@ -119,6 +122,7 @@ The following repositories are intended to demonstrate hands-on architecture, im
 - [Salesforce Certified MuleSoft Developer I](https://www.salesforce.com/trailblazer/apardhi1)
 - MuleSoft Certified Delivery Champion
 - MuleSoft Community Contributor, Meetup Leader, and Speaker
+
 ---
 
 ## Mule Ace Academy
