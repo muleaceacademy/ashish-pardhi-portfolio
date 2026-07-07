@@ -26,11 +26,11 @@
 ## About Me
 <table>
   <tr>
-    <td width="220" valign="top">
+    <td width="220" valign="center">
       <img width="180" alt="Ashish Pardhi"
         src="https://github.com/user-attachments/assets/5ed503b3-f392-4b38-8e5c-7ec4414735c9" />
     </td>
-    <td valign="top">
+    <td valign="center">
       <h3>About Me</h3>
       <p>
         I am a MuleSoft Practice Lead and Technical Delivery Leader with
