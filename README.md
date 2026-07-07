@@ -24,6 +24,7 @@
 ---
 
 ## About Me
+![Uploading Ashish_1.png…]()
 
 I am a MuleSoft Practice Lead and Technical Delivery Leader with **15 years of IT experience**, including **12+ years in enterprise integration** and **7+ years delivering MuleSoft programs**.
 
