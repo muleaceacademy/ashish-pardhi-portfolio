@@ -13,6 +13,14 @@
 <p align="center">
   API-Led Connectivity · Salesforce & MuleSoft · Platform Governance · API Security · Agentforce · AI-Enabled Integration
 </p>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>·
+  <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>·
+  <a href="mailto:ashish.iitbcse@gmail.com">Email</a>·
+  <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
+</p>
+
 ---
 
 ## About Me
@@ -21,12 +29,6 @@
     <td width="220" valign="center">
       <img width="180" alt="Ashish Pardhi"
         src="https://github.com/user-attachments/assets/5ed503b3-f392-4b38-8e5c-7ec4414735c9" />
-      <p align="center">
-  <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>·
-  <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>·
-  <a href="mailto:ashish.iitbcse@gmail.com">Email</a>·
-  <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
-</p>
     </td>
     <td valign="center">
       <p>
