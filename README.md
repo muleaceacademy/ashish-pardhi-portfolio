@@ -61,7 +61,7 @@
 | Domain | Capabilities |
 |---|---|
 | **MuleSoft & Integration** | Anypoint Platform, Mule 4.x, API-led connectivity, REST, SOAP, RAML, OAS, event-driven architecture, EDI, AMQP, JMS, SFTP |
-| **Platform Architecture** | CloudHub, Runtime Fabric, API Manager, Exchange, Design Center, Anypoint MQ, Flex Gateway, API Catalog, Topic Center |
+| **Platform Architecture** | CloudHub, Runtime Fabric, API Manager, Exchange, Design Center, Anypoint MQ, Omni Gateway, API Catalog, Topic Center |
 | **Security & Governance** | OAuth 2.0, SSO, Okta, connected apps, API policies, custom policies, access control, VPC, VPN, DLB, private connectivity, API governance |
 | **Salesforce & AI** | Salesforce CRM, Agentforce, MuleSoft for Agentforce, MCP, Agentic AI, RAG, Prompt Engineering, Mule AI Chain, IDP, LLM-enabled automation |
 | **Delivery & DevOps** | CI/CD, GitHub Actions, GitLab, Jenkins, Azure DevOps, Maven, testing, monitoring, logging, error handling, release governance |
@@ -82,16 +82,16 @@
 
 ## Representative Enterprise Work
 
-### Global SAP S/4HANA and Salesforce Integration
+- ### Global SAP S/4HANA and Salesforce Integration
 Architected a secure, real-time integration approach for a global SAP S/4HANA and Salesforce landscape spanning **130+ countries**. Designed an integration pattern using AMQP 1.0 and OAuth 2.0 to strengthen security, reliability, and global order visibility.
 
-### AI-Powered Customer Onboarding
+- ### AI-Powered Customer Onboarding
 Designed an AI-enabled onboarding platform using MuleSoft MCP, Salesforce CRM, Supabase, and LLM services. Established a reusable multi-agent integration framework for real-time customer profiling and personalized engagement.
 
-### Intelligent Document Processing and Retention Automation
+- ### Intelligent Document Processing and Retention Automation
 Led a MuleSoft IDP and Einstein AI implementation that integrated Salesforce, email, and SharePoint for metadata extraction, classification, and policy-based retention workflows.
 
-### Salesforce and Hospitality PMS Integration
+- ### Salesforce and Hospitality PMS Integration
 Designed API-led integration patterns for guest profile, reservation, room availability, revenue, and inventory synchronization between Salesforce and a hospitality property-management platform.
 
 > Client names, internal architecture details, and proprietary implementation artifacts are intentionally excluded from this public portfolio.
@@ -133,7 +133,7 @@ I founded **Mule Ace Academy**, a technical learning initiative for MuleSoft dev
 The channel focuses on practical, real-world guidance across:
 
 - MuleSoft Anypoint Platform and API-led connectivity
-- Runtime Fabric, CloudHub, Flex Gateway, API security, and governance
+- Runtime Fabric, CloudHub, Omni Gateway, API security, and governance
 - Terraform, CI/CD, platform operations, and troubleshooting
 - Salesforce integration, Agentforce, MCP, AI Gateway, RAG, and enterprise AI automation
 
