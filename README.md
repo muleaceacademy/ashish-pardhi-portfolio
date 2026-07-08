@@ -82,6 +82,9 @@
 
 ## Representative Enterprise Work
 
+- ### Payroll Audit & AR Invoicing Automation Using MuleSoft
+Designed a secure, real-time payroll audit and AR invoicing automation solution using MuleSoft as the central integration and orchestration layer. The solution enables automated payroll anomaly detection before final processing, generates refined payroll reports, and notifies clients through governed workflows. MuleSoft integrates Salesforce, MuleSoft RPA, MuleSoft Intelligent Document Processing (IDP), the Payroll System, and OneDrive to streamline document processing, exception handling, client communication, and end-to-end process visibility.
+
 - ### Global SAP S/4HANA and Salesforce Integration
 Architected a secure, real-time integration approach for a global SAP S/4HANA and Salesforce landscape spanning **130+ countries**. Designed an integration pattern using AMQP 1.0 and OAuth 2.0 to strengthen security, reliability, and global order visibility.
 
