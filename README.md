@@ -82,7 +82,10 @@
 
 ## Representative Enterprise Work
 
-- ### Payroll Audit & AR Invoicing Automation Using MuleSoft
+- ### On-Prem LMS & LOS Integration Platform
+Designed a secure, on-premise integration environment for the Loan Management System (LMS) and Loan Origination System (LOS) using MuleSoft Runtime Fabric deployed on Amazon EKS and Omni Gateway for API security and governance. The solution enabled centralized management, protection, and governance of 500+ external non-MuleSoft APIs through Omni Gateway, while 200+ MuleSoft APIs were implemented and deployed on Runtime Fabric to support secure external bank communication, partner integrations, and regulated lending workflows.
+
+- ### Payroll Audit & AR Invoicing Automation
 Designed a secure, real-time payroll audit and AR invoicing automation solution using MuleSoft as the central integration and orchestration layer. The solution enables automated payroll anomaly detection before final processing, generates refined payroll reports, and notifies clients through governed workflows. MuleSoft integrates Salesforce, MuleSoft RPA, MuleSoft Intelligent Document Processing (IDP), the Payroll System, and OneDrive to streamline document processing, exception handling, client communication, and end-to-end process visibility.
 
 - ### Global SAP S/4HANA and Salesforce Integration
