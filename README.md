@@ -8,7 +8,7 @@
         <a href="mailto:ashish.iitbcse@gmail.com">Email</a>  |
         <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
       </p>
-    </td>
+    </td>  </tr>  <tr>
     <td valign="center">
       <p align="center">
         <strong>MuleSoft Practice Lead | Technical Delivery & Professional Services Leader | Enterprise Integration Architecture</strong>
