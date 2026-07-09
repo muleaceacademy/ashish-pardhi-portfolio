@@ -1,24 +1,20 @@
-<table>
-  <tr>
-    <td valign="center">
-      <h1 align="center">Ashish Pardhi</h1>
-      <p align="center">
-        <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>  |
-        <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>  |
-        <a href="mailto:ashish.iitbcse@gmail.com">Email</a>  |
-        <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
-      </p>
-    </td>  </tr>  <tr>
-    <td valign="center">
-      <p align="center">
-        <strong>MuleSoft Practice Lead | Technical Delivery & Professional Services Leader | Enterprise Integration Architecture</strong>
-      </p>
-      <p align="center">
-        API-Led Connectivity · Salesforce & MuleSoft · Platform Governance · API Security · Agentforce · AI-Enabled Integration
-      </p>
-    </td>
-  </tr>
-</table>
+<h1 align="center">Ashish Pardhi</h1>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>  |
+  <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>  |
+  <a href="mailto:ashish.iitbcse@gmail.com">Email</a>  |
+  <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
+</p>
+
+<p align="center">
+  <strong>MuleSoft Practice Lead | Technical Delivery & Professional Services Leader | Enterprise Integration Architecture</strong>
+</p>
+
+<p align="center">
+  API-Led Connectivity · Salesforce & MuleSoft · Platform Governance · API Security · Agentforce · AI-Enabled Integration
+</p>
+
 
 ---
 
@@ -59,9 +55,9 @@
 
 | Domain | Capabilities |
 |---|---|
-| **MuleSoft & Integration** | Anypoint Platform, Mule 4.x, API-led connectivity, REST, SOAP, RAML, OAS, event-driven architecture, EDI, AMQP, JMS, SFTP |
-| **Platform Architecture** | CloudHub, Runtime Fabric, API Manager, Exchange, Design Center, Anypoint MQ, Omni Gateway, API Catalog, Topic Center |
-| **Security & Governance** | OAuth 2.0, SSO, Okta, connected apps, API policies, custom policies, access control, VPC, VPN, DLB, private connectivity, API governance |
+| **MuleSoft & Integration** | Anypoint Platform, Mule 4.x, API-led connectivity, REST, gRPC, GraphQL, SOAP, RAML, OAS, event-driven architecture, EDI, AMQP, JMS, SFTP |
+| **Platform Architecture** | CloudHub, Runtime Fabric, API Manager, Exchange, Design Center, Anypoint MQ, Omni Gateway, API Catalog, LLM Gateway |
+| **Security & Governance** | OAuth 2.0, SSO, Okta, connected apps, API policies, custom policies, access control, VPC, VPN, DLB, Transit Gateway, API governance |
 | **Salesforce & AI** | Salesforce CRM, Agentforce, MuleSoft for Agentforce, MCP, Agentic AI, RAG, Prompt Engineering, Mule AI Chain, IDP, LLM-enabled automation |
 | **Delivery & DevOps** | CI/CD, GitHub Actions, GitLab, Jenkins, Azure DevOps, Maven, testing, monitoring, logging, error handling, release governance |
 | **Leadership** | Technical delivery leadership, architecture governance, estimation, pre-sales, stakeholder management, practice enablement, mentoring, customer workshops |
@@ -88,7 +84,7 @@ Designed a secure, on-premise integration environment for the Loan Management Sy
 Designed a secure, real-time payroll audit and AR invoicing automation solution using MuleSoft as the central integration and orchestration layer. The solution enables automated payroll anomaly detection before final processing, generates refined payroll reports, and notifies clients through governed workflows. MuleSoft integrates Salesforce, MuleSoft RPA, MuleSoft Intelligent Document Processing (IDP), the Payroll System, and OneDrive to streamline document processing, exception handling, client communication, and end-to-end process visibility.
 
 - ### Global SAP S/4HANA and Salesforce Integration
-Architected a secure, real-time integration approach for a global SAP S/4HANA and Salesforce landscape spanning **130+ countries**. Designed an integration pattern using AMQP 1.0 and OAuth 2.0 to strengthen security, reliability, and global order visibility.
+Architected a secure, real-time integration approach for a global SAP S/4HANA and Salesforce landscape spanning **130+ countries**. Designed custom connector for SAP EM using Java 17 SDK, AMQP 1.0 and OAuth 2.0 to strengthen security, reliability, and global order visibility.
 
 - ### AI-Powered Customer Onboarding
 Designed an AI-enabled onboarding platform using MuleSoft MCP, Salesforce CRM, Supabase, and LLM services. Established a reusable multi-agent integration framework for real-time customer profiling and personalized engagement.
