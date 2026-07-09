@@ -1,6 +1,6 @@
 <table>
   <tr>
-    <td width="220" valign="center">
+    <td valign="center">
       <h1 align="center">Ashish Pardhi</h1>
       <p align="center">
         <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>  |
