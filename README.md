@@ -1,4 +1,4 @@
-<h1 style="color: #0070d2;">Ashish Pardhi</h1>
+<h1 align="center">Ashish Pardhi</h1>
 
 <p align="center">
   <strong>MuleSoft Practice Lead | Technical Delivery & Professional Services Leader | Enterprise Integration Architecture</strong>
