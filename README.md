@@ -114,14 +114,14 @@ The following repositories are intended to demonstrate hands-on architecture, im
 ## Certifications & Recognition
 
 - [Salesforce Certified Agentforce Specialist](https://www.salesforce.com/trailblazer/apardhi1)
-- [Salesforce Certified MuleSoft Hyperautomation Specialist](https://www.salesforce.com/trailblazer/apardhi1)
+- [Salesforce Certified MuleSoft Hyperautomation Developer](https://www.salesforce.com/trailblazer/apardhi1)
 - [Salesforce Certified MuleSoft Developer II](https://www.salesforce.com/trailblazer/apardhi1)
 - [Salesforce Certified MuleSoft Platform Architect](https://www.salesforce.com/trailblazer/apardhi1)
-- [Salesforce Certified MuleSoft Integration Architect](https://www.salesforce.com/trailblazer/apardhi1)
+- [Salesforce Certified MuleSoft Platform Integration Architect](https://www.salesforce.com/trailblazer/apardhi1)
 - [Salesforce Certified MuleSoft Developer I](https://www.salesforce.com/trailblazer/apardhi1)
-- MuleSoft Certified Delivery Champion
-- MuleSoft **Ambassador**
-- MuleSoft Community Contributor, Chennai MuleSoft Meetup Leader, and Speaker
+- MuleSoft Certified **Delivery Champion**
+- [MuleSoft **Ambassador**](https://www.mulesoft.com/community/ambassadors/)
+- [MuleSoft Community Contributor, **Chennai MuleSoft Meetup Leader**, and Speaker]()
 
 ---
 
@@ -131,6 +131,7 @@ I founded **Mule Ace Academy**, a technical learning initiative for MuleSoft dev
 
 The channel focuses on practical, real-world guidance across:
 
+- Mule Vibes and MuleSoft Agent Fabric
 - MuleSoft Anypoint Platform and API-led connectivity
 - Runtime Fabric, CloudHub, Omni Gateway, API security, and governance
 - Terraform, CI/CD, platform operations, and troubleshooting
@@ -161,6 +162,7 @@ Scalable Customer Outcomes and Team Enablement
 - LinkedIn: [linkedin.com/in/ashishpardhi](https://www.linkedin.com/in/ashishpardhi/)
 - YouTube: [Mule Ace Academy](https://www.youtube.com/@MuleAceAcademy)
 - Email: [ashish.iitbcse@gmail.com](mailto:ashish.iitbcse@gmail.com)
+- Insta: [Mule Ace Academy](https://www.instagram.com/muleaceacademy)
 
 ---
 
