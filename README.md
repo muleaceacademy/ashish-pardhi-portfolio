@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  API-Led Connectivity · Salesforce & MuleSoft · Platform Governance · API Security · Agentforce · AI-Enabled Integration
+  Enterprise Integration · Salesforce & MuleSoft · AI Automation · Agents & API Security · Agent Fabric
 </p>
 <p align="center">
   <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>  |
