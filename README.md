@@ -1,25 +1,24 @@
-<!--
-  GitHub Portfolio README — Ashish Pardhi
-  Before publishing: upload your latest resume to /resume/Ashish_Pardhi_Resume.pdf
-  and replace any repository placeholders in the Featured Projects section.
--->
-
-<h1 align="center">Ashish Pardhi</h1>
-
-<p align="center">
-  <strong>MuleSoft Practice Lead | Technical Delivery & Professional Services Leader | Enterprise Integration Architecture</strong>
-</p>
-
-<p align="center">
-  API-Led Connectivity · Salesforce & MuleSoft · Platform Governance · API Security · Agentforce · AI-Enabled Integration
-</p>
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>  |
-  <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>  |
-  <a href="mailto:ashish.iitbcse@gmail.com">Email</a>  |
-  <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
-</p>
+<table>
+  <tr>
+    <td width="220" valign="center">
+      <h1 align="center">Ashish Pardhi</h1>
+      <p align="center">
+        <a href="https://www.linkedin.com/in/ashishpardhi/">LinkedIn</a>  |
+        <a href="https://www.youtube.com/@MuleAceAcademy">Mule Ace Academy</a>  |
+        <a href="mailto:ashish.iitbcse@gmail.com">Email</a>  |
+        <a href="./resume/Ashish_Pardhi_Resume.pdf">Download Resume</a>
+      </p>
+    </td>
+    <td valign="center">
+      <p align="center">
+        <strong>MuleSoft Practice Lead | Technical Delivery & Professional Services Leader | Enterprise Integration Architecture</strong>
+      </p>
+      <p align="center">
+        API-Led Connectivity · Salesforce & MuleSoft · Platform Governance · API Security · Agentforce · AI-Enabled Integration
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
